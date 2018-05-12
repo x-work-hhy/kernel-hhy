@@ -1,0 +1,12 @@
+/* 
+ * dts file for Bubblegum-96 Development Board 
+ * 
+ * Copyright (C) 2016, wowotech. 
+ * 
+ */
+/dts-v1/; 
+
+/ { 
+	model = "cubieboard7 Development Board"; 
+	compatible = "actions,s700-cubieboard7", "actions,s700"; 
+};
